@@ -7,12 +7,12 @@ public class FizzBuzz
 {
 	public static void main(String[] args)
 	{
-		fizzBuzz();
+		fizzBuzz(100);
 	}
 
-	public static void fizzBuzz()
+	public static void fizzBuzz(int counter)
 	{
-		for (int i = 1; i <= 100; i++)
+		for (int i = 1; i <= counter; i++)
 			if (i % 3 == 0 && i % 5 == 0)
 			{
 				System.out.println("FizzBuzz");

@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6d8afb02-2e65-4b1a-870b-400d90f9a93d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fizzbuzz/INSTRUCTIONS.md" afterPath="$PROJECT_DIR$/fizzbuzz/INSTRUCTIONS.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fizzbuzz/java/KelseyNewman147/FizzBuzz.java" afterPath="$PROJECT_DIR$/fizzbuzz/java/KelseyNewman147/FizzBuzz.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,17 +38,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FizzBuzz.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="FizzBuzz.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fizzbuzz/java/KelseyNewman147/FizzBuzz.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+            <state relative-caret-position="165">
+              <caret line="14" column="36" lean-forward="false" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="INSTRUCTIONS.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="INSTRUCTIONS.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fizzbuzz/INSTRUCTIONS.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -57,16 +57,6 @@
                 <folding />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -94,9 +84,9 @@
         <option value="$PROJECT_DIR$/fizzbuzz/java/KelseyNewman147/fizzbuzz.java" />
         <option value="$PROJECT_DIR$/fizzbuzz/java/KelseyNewman147/FizzBuzzTest.groovy" />
         <option value="$PROJECT_DIR$/fizzbuzz/java/FizzBuzz.java" />
-        <option value="$PROJECT_DIR$/fizzbuzz/java/KelseyNewman147/FizzBuzz.java" />
         <option value="$PROJECT_DIR$/fizzbuzz/ruby/binarymason/fizzbuzz.rb" />
         <option value="$PROJECT_DIR$/fizzbuzz/INSTRUCTIONS.md" />
+        <option value="$PROJECT_DIR$/fizzbuzz/java/KelseyNewman147/FizzBuzz.java" />
       </list>
     </option>
   </component>
@@ -613,12 +603,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1490542066646</updated>
-      <workItem from="1490542068321" duration="2293000" />
+      <workItem from="1490542068321" duration="4190000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2293000" />
+    <option name="totallyTimeSpent" value="4190000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -681,14 +671,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fizzbuzz/ruby/binarymason/fizzbuzz.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -705,10 +687,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fizzbuzz/java/KelseyNewman147/FizzBuzz.java">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -721,6 +703,14 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fizzbuzz/java/KelseyNewman147/FizzBuzz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="14" column="36" lean-forward="false" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
