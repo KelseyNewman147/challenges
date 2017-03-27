@@ -10,24 +10,26 @@ public class FizzBuzz
 		fizzBuzz(100);
 	}
 
-	public static void fizzBuzz(int counter)
+	public static String[] fizzBuzz(int counter)
 	{
+		String [] output = new String[counter];
 		for (int i = 1; i <= counter; i++)
 			if (i % 3 == 0 && i % 5 == 0)
 			{
-				System.out.println("FizzBuzz");
+				output[i-1] = "FizzBuzz";
 			}
 			else if (i % 3 == 0)
 			{
-				System.out.println("Fizz");
+				output[i-1] = "Fizz";
 			}
 			else if (i % 5 == 0)
 			{
-				System.out.println("Buzz");
+				output[i-1] = "Buzz"
 			}
 			else
 			{
-				System.out.println(String.valueOf(i));
+				output[i-1] = String.valueOf(i);
 			}
+			return output;
 	}
 }
